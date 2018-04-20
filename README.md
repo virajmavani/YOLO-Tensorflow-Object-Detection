@@ -89,4 +89,4 @@ python main.py
 
 ## Download Extras and put them in root first:
 
-https://drive.google.com/open?id=1xJ1xoZxWhPQp0NY5QU3bFdQhv5Z-w3G_
+https://drive.google.com/drive/folders/1xJ1xoZxWhPQp0NY5QU3bFdQhv5Z-w3G_?usp=sharing
