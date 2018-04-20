@@ -86,3 +86,7 @@ python main.py
 ![alt text](output/001432.jpgoutput.png)
 ![alt text](output/003065.jpgoutput.png)
 ![alt text](output/003785.jpgoutput.png)
+
+## Download Extras and put them in root first:
+
+https://drive.google.com/open?id=1xJ1xoZxWhPQp0NY5QU3bFdQhv5Z-w3G_
